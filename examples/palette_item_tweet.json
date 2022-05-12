@@ -1,0 +1,21 @@
+{
+  "tweet": {
+    "id": "tweet",
+    "section": "(section name)",
+    "position": -1,
+    "icon": "/plugins/cogni-sketch-contrib-twitter/images/icon-tweet.svg",
+    "icon-alt": "icon-tweet",
+    "label": "tweet",
+    "nodeColor": "blue",
+    "settings": {
+      "canChangeTypeAfterCreation": true,
+      "tweetScale": 1,
+      "dropPrefixes": [
+        "http://twitter.",
+        "https://twitter."
+      ],
+      "defaultWidth": "100px",
+      "tweetService": "tweet?url="
+    }
+  }
+}

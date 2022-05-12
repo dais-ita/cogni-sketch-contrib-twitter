@@ -1,0 +1,14 @@
+{
+  "name": "cogni-sketch-contrib-twitter",
+  "version": "0.1.0",
+  "description": "Twitter integration for the cogni-sketch environment",
+  "license": "MIT",
+  "author": {
+    "name": "Dave Braines",
+    "email": "davebraines@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dais-ita/cogni-sketch-contrib-twitter/"
+  }
+}
